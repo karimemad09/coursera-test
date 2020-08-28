@@ -63,16 +63,15 @@ body {
 .content div{
   background-color: gray;
   font-size:1.3em;
-  margin:3em;
+  margin:1px;
 }
 .content div h3{
   text-align: center;
-  padding: 1em;
+  padding: .8em;
   font-weight: bolder
 }
 .content div p{
   font-size:0.8em;
-  padding: 0 1.5em 1.5em 1.5em;
   font-weight: bold
 }
 
